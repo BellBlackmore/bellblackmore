@@ -105,7 +105,7 @@ theme: amazingremake
 deploy:
   type: git
   repo: <git@github.com:bellblackmore>
-  branch: [main]
+  branch: main
   token: '$TOKEN'
   message: [message]
   name: [bellblackmore]
