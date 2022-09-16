@@ -106,7 +106,7 @@ deploy:
   type: git
   repo: <git@github.com:bellblackmore>
   branch: [main]
-  token: '$GITHUB_TOKEN'
+  token: '$TOKEN'
   message: [message]
   name: [bellblackmore]
   email: [bellblackmore@gmail.com]
