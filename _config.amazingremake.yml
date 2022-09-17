@@ -1,0 +1,21 @@
+head:
+  open_graph:
+    title: Blog - Bell Blackmore # (Optional) Page title
+    type: # (Optional) Page type
+    url: # (Optional) Page URL
+    image: # (Optional) Image of the page
+    site_name: Blog - Bell Blackmore # (Optional) Site name
+    author: Bell Blackmore # (Optional) Author of the page
+    description: A blog for random projects and other dumb stuff that Bell Blackmore want to share with everyone # (Optional) Page description
+    twitter_card: summary_large_image # (Optional) Twitter card type
+    twitter_id: 1528612311317065728 # Twitter ID
+    twitter_site: Bellblackmore1 # Twitter site
+    google_plus: # Google+ profile link
+    fb_admins: # Facebook administrator ID
+    fb_app_id: # Facebook application ID
+  structured_data:
+    title: Blog - Bell Blackmore       # (可选) 页面标题
+    description: A blog for random projects and other dumb stuff that Bell Blackmore want to share with everyone  # (可选) 页面描述
+    url: blog.bellblackmore.tk       # (可选) 页面 URL
+    author: Bell Blackmore      # (可选) 页面作者
+    image:        # (可选) 页面图片 
