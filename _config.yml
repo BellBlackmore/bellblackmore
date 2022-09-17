@@ -104,12 +104,9 @@ theme: amazingremake
 
 deploy:
   type: git
-  repo: git@github.com:bellblackmore/bellblackmore.github.io.git
+  repo: <git@github.com:BellBlackmore/BellBlackmore.github.io.git>
   branch: main
-  token: '$TOKEN'
-  message: 
-  name: bellblackmore
-  email: bellblackmore@gmail.com
+  token: TOKEN
   extend_dirs: 
   ignore_hidden: false # default is true
   ignore_pattern: regexp  # whatever file that matches the regexp will be ignored when deploying
