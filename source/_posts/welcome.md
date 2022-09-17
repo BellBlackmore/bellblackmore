@@ -1,5 +1,5 @@
 ---
-title: welcome
+title: Welcome
 date: 2022-09-17 14:22:39
 tags:
 ---
